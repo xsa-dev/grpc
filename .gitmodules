@@ -52,3 +52,6 @@
 [submodule "third_party/xds"]
 	path = third_party/xds
 	url = https://github.com/cncf/xds.git
+[submodule "examples/cpp/vcmi"]
+	path = examples/cpp/vcmi
+	url = ../../vcmi/vcmi.git
